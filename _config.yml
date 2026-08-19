@@ -1,6 +1,6 @@
 theme: minima
-title: "Blog Template"
-baseurl: "/blog-template"
+title: "DnD Campaigns"
+baseurl: "/dnd-campaigns"
 collections:
   site_content:
     output: true
@@ -23,11 +23,11 @@ defaults:
       layout: "site_content"
       toc: true
 
-favicon_svg: assets/images/QuillOnScroll.svg
-favicon_png: assets/images/QuillOnScroll.png
-favicon_ico: assets/images/QuillOnScroll.ico
+favicon_svg: assets/images/IcosahedronOnQuillOnScroll.svg
+favicon_png: assets/images/IcosahedronOnQuillOnScroll.png
+favicon_ico: assets/images/IcosahedronOnQuillOnScroll.ico
 # favicon:
-#   source: /assets/images/QuillOnScroll.svg
+#   source: /assets/images/IcosahedronOnQuillOnScroll.svg
 #   dest: /assets/images/
 #   type: svg
 
