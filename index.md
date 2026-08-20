@@ -1,5 +1,5 @@
 ---
-title: "Blog Template Project"
+title: "DnD Campaigns Project"
 date: 2026-08-18
 order: -1
 id: index
@@ -16,6 +16,6 @@ layout: "index_page"
     display: block;
 ">
 
-Blog Template project instructions and notes. See code (including that which generated this site) at [https://github.com/r-spiewak/blog-template](https://github.com/r-spiewak/blog-template).
+DnD Campaigns project is a blog for posting notes from DnD campaigns. See code (including that which generated this site) at [https://github.com/r-spiewak/dnd-campaigns](https://github.com/r-spiewak/dnd-campaigns).
 
 {% comment %}<!-- {% include index-content-stub.md %} -->{% endcomment %}
